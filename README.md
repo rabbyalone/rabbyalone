@@ -43,6 +43,7 @@ working with various technologies, especially in .Net Ecosystem, Vue, and Angula
 
 ## 𝗦𝘁𝗮𝘁𝘀
 
-![Rabby Hasan's github stats](https://github-readme-stats.vercel.app/api?username=rabbyalone&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"t&show_icons=true&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rabbyalone&layout=compact)](https://github.com/rabbyalone/github-readme-stats)
+![Rabby Hasan's github stats](https://github-readme-stats.vercel.app/api?username=rabbyalone&hide=issues&show_icons=true&include_all_commits=true&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rabbyalone&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
