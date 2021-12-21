@@ -6,11 +6,10 @@ working with various technologies, especially in .Net Ecosystem, Vue, and Angula
  
 
 
-![LinkedIn](https://img.shields.io/badge/-rabbyalone-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rabbyalone/)
-![StackOverflow](https://img.shields.io/badge/-StackOverflow-grey?style=flat&logo=stackoverflow&link=https://stackoverflow.com/users/4238524/rabby-hasan)
-![Website](https://img.shields.io/badge/-Portfolio-4285F4?style=flat-square&logoColor=white&logo=google-chrome&link=https://rabby.azurewebsites.net/)
-![Gmail](https://img.shields.io/badge/-rabbyalone@gmail.com-EA4335?style=flat-square&logoColor=white&logo=mail.ru&link=rabbyalone@gmail.com)
-
+<a href="https://www.linkedin.com/in/rabbyalone"><img src="https://img.shields.io/badge/-rabbyalone-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rabbyalone/"/></a>
+<a href="https://stackoverflow.com/users/4238524/rabby-hasan"><img src="https://img.shields.io/badge/-StackOverflow-grey?style=flat&logo=stackoverflow&link=https://stackoverflow.com/users/4238524/rabby-hasan"/></a>
+<a href="https://rabby.azurewebsites.net"><img src="https://img.shields.io/badge/-Portfolio-4285F4?style=flat-square&logoColor=white&logo=google-chrome&link=https://rabby.azurewebsites.net/"/></a>
+<a href="mailto:rabbyalone@gmail.com"><img src="https://img.shields.io/badge/-rabbyalone@gmail.com-EA4335?style=flat-square&logoColor=white&logo=mail.ru&link=rabbyalone@gmail.com"/></a>
 
 ## Technologies I have used
 
