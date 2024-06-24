@@ -1,7 +1,7 @@
 ## Hello! <img src="https://raw.githubusercontent.com/erdkse/erdkse/main/wave.gif" width="30px">
 
-This is Mohammed Rabby Hasan, Senior full-stack developer who has proven 7+ years of experience 
-working with various technologies, especially in .Net Ecosystem, Vue, and Angular.
+This is Mohammed Rabby Hasan, Senior full-stack developer who has proven 8+ years of experience 
+working with various technologies, especially in .Net Ecosystem, React, Vue, Angular, SQL, NOSQL.
 
  
 
